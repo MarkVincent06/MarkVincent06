@@ -1,4 +1,4 @@
-
+![github-header-image](https://github.com/MarkVincent06/MarkVincent06/assets/99129600/bdb85813-bd9a-4049-8626-18e2800be4de)
 <div align="center">
       <span>
         <a target="_blank" href="https://www.facebook.com/markvincentcleofe06"><img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%23316FF6?style=for-the-badge&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fmarkvincentcleofe06" alt="Facebook">
@@ -15,9 +15,9 @@
 
   <div align="left">
       <span>
-       ![github-header-image](https://github.com/MarkVincent06/MarkVincent06/assets/99129600/cf8bc533-1867-40bd-8d34-335769108d58)
- <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+       <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
       </span>
+
       <span>
        <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
       </span>
