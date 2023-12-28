@@ -17,7 +17,6 @@
       <span>
        <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
       </span>
-
       <span>
        <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
       </span>
@@ -30,8 +29,7 @@
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
       </span>
       <span>
-        <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=474A8A" alt="PHP![github-header-image](https://github.com/MarkVincent06/MarkVincent06/assets/99129600/432141de-5a94-4891-8a36-4d481927de19)
-">
+        <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=474A8A" alt="PHP">
       </span>
     </div>
     
